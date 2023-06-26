@@ -1,0 +1,67 @@
+{
+    "util": {
+        "ping": "My ping is",
+        "invite": "Here is the link to add me to **your server**, and enjoy me with my great **invitation management system**.",
+        "noTop": "No invite on this server"
+    },
+    "graphique": {
+        "notStats": "There are no statistics to display yet.",
+        "newMembers": "new members",
+        "members": "members",
+        "title": "Graph of joins/leaves",
+        "description": "Above is the graph of the server members' statistics."
+    },
+    "invites": {
+        "total": "You have"
+    },
+    "help": {
+        "titre": "Help page of",
+        "description": "**Configuration**\n`options` » Bot configuration.\n`rank` » Configure ranks.\n`variables` » See the variables.\n`reset-invites` » Reset all invitations..\n\n**General**\n`invites` » Give the number of invitations of a person.\n`top` » See the server ranking.\n`language` » Configure the language.\n\n**Management**\n`bonus` » Add invitations to a member.\n\n[Install me on your server](https://discord.com/api/oauth2/authorize?client_id=693745744133488670&permissions=8&scope=bot) - [Server Support](https://discord.gg/3AJgKkdvNQ)"
+    },
+    "admin:": {
+        "ghostpingsList": "This is the list of channels"
+    },
+    "config": {
+        "variables": "This is the list of bot variables",
+        "bonus": "invitations have been added to",
+        "ranksAdd": "has just been defined on",
+        "embedTitleInvite": "`⚙️`・Invitation ranks configuration",
+        "noRank": "There is no rank on the server",
+        "howInvite": "How many invites to get the rank?",
+        "choisirRole": "Please choose a role"
+    },
+    "inviteconfig": {
+        "embeddescription": "✉️ **Server configuration {guildname}**\n`📥` Welcome lounge:\n {welcomelounge`📪` Welcome message:\n {welcomemsg`📤` Farewell lounge:\n {goodbyelounge}\n`📭` Farewell message:\n{goodbyemsg}",
+        "welcomelounge": "Welcome lounge",
+        "welcomemsg": "Welcome message",
+        "goodbyelounge": "Goodbye lounge",
+        "goodbyemsg": "Goodbye message",
+        "askwelcomelounge": "📥 Please mention or give me the ID of the welcome lounge.",
+        "askwelcomemsg": "📭 Please enter the welcome message:",
+        "askgoodbyelounge": "📥 Please mention or give me the ID of the goodbye lounge.",
+        "askgoodbyemsg": "📭 Please enter the goodbye message:",
+        "undefined": "None",
+        "requestedby": "Requested by",
+        "resetYes": "Yes",
+        "resetNo": "No",
+        "resetSucces": "You have just reset all the invitations of the server",
+        "resetStop": "You have cancelled your action"
+    },
+    "premium": {
+        "remove": "You have just removed the premium from the server",
+        "noPremium": "does not have the premium",
+        "add": "You have just added the premium on the server",
+        "noServer": "You don't have any premium server registered.",
+        "alreadyPremium": "already owns the premium",
+        "selectServer": "Select a server",
+        "noServer2": "you don't have any of the servers with me.",
+        "2server": "you already have two premium servers, to remove made </premium remove:1108705785254510599>",
+        "notPremium": "you don't have a premium subscription"
+    },
+    "admin": {
+        "greetChannel": "Please mention a channel you wish to add",
+        "greeltChannel": "Please mention a channel you wish to add",
+        "greetValid": "Do you really want to delete all configured channels?",
+        "verifyRole": "Please select one or more roles"
+    }
+}

@@ -1,0 +1,61 @@
+{
+  "util": {
+    "ping": "Mon ping est de",
+    "invite": "Voici le lien pour m'ajouter à **ton serveur**, et profiter de moi avec mon super **système de gestions d'invitations**.",
+    "noTop": "Aucune invitation sur ce serveur"
+  },
+  "graphique": {
+    "notStats": "Il n'y a pas encore de statistiques à afficher.",
+    "newMembers": "nouveaux membres",
+    "members": "membres",
+    "title": "Graphique des joins/leaves",
+    "description": "Ci-dessus se trouve le graphique des statistiques des membres du serveur."
+  },
+  "invites": {
+    "total": "Vous avez"
+  },
+  "help": {
+    "titre": "Page d'aide de",
+    "description": "**Configuration**\n`options` » Configuration du bot.\n`rank` » Configurer les ranks.\n`variables` » Voir les variables.\n`reset-invites` » Réinitialiser toute les invitations.\n\n**Général**\n`invites` » Donne le nombre d'invitation d'une personne.\n`top` » Voir le classement du serveur.\n`language` » Configuration le language du bot.\n\n**Gestion**\n`bonus` » Ajoute des invitations à un membre.\n\n[Installe moi sur ton serveur](https://discord.com/api/oauth2/authorize?client_id=693745744133488670&permissions=8&scope=bot) • [Serveur Support](https://discord.gg/3AJgKkdvNQ)"
+  },
+  "admin:": {
+    "ghostpingsList": "Voici la liste des salons"
+  },
+  "config": {
+    "variables": "Voici la liste des variables du bot",
+    "bonus": "invitations ont bien été ajoutées à",
+    "ranksAdd": "vient d'être définis sur",
+    "embedTitleInvite": "`⚙️`・Configuration des ranks d'invitations",
+    "noRank": "Il n'y a aucun rank sur le serveur",
+    "howInvite": "Combien d'invitation pour obtenir le rank?",
+    "choisirRole": "Veuillez choisir un rôle"
+  },
+  "inviteconfig": {
+    "embeddescription": "✉️ **Configuration du serveur {guildname}**\n\n`📥` Salon de bienvenue:\n {welcomelounge\n`📪` Message de bienvenue:\n {welcomemsg\n`📤` Salon d'au revoir:\n {goodbyelounge}\n`📭` Message d'au revoir:\n{goodbyemsg}",
+    "welcomelounge": "Salon de bienvenue",
+    "welcomemsg": "Message de bienvenue",
+    "goodbyelounge": "Salon d'au revoir",
+    "goodbyemsg": "Message d'au revoir",
+    "askwelcomelounge": "📥 Veuillez mentionner ou m'envoyer l'ID du salon de bienvenue.",
+    "askwelcomemsg": "📭 Veuillez entrer le message de bienvenue",
+    "askgoodbyelounge": "📥 Veuillez mentionner ou m'envoyer l'ID du salon d'au revoir",
+    "askgoodbyemsg": "📭 Veuillez entrer le message d'au revoir",
+    "undefined": "Aucun",
+    "requestedby": "Demandé par",
+    "resetYes": "Oui",
+    "resetNo": "Non",
+    "resetSucces": "Vous venez de réinitialiser toute les invitations du serveur",
+    "resetStop": "Vous venez d'annuler votre action"
+  },
+  "premium": {
+    "remove": "Vous venez de retirer le premium du serveur ",
+    "noPremium": "ne possède pas le premium",
+    "add": "Vous venez d'ajouter le premium sur le serveur ",
+    "noServer": "Vous n'avez aucun serveur premium enregistré.",
+    "alreadyPremium": "possède déjà le premium",
+    "selectServer": "Sélectionnez un serveur",
+    "noServer2": "vous n'avez aucun des serveurs avec moi.",
+    "2server": "Vous avez déjà deux serveurs premium, pour en retirer faite </premium retirer:1108705785254510599>",
+    "notPremium": "vous ne possedez pas d'abonnement premium"
+  }
+}

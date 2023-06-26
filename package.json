@@ -1,0 +1,26 @@
+{
+  "name": "invite-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "InviteTracker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flaaw",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.4.0",
+    "canvas": "^2.11.2",
+    "canvas-senpai": "^2.0.3",
+    "chartjs-node-canvas": "^4.1.6",
+    "discord-canvas-easy": "^3.2.0",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "mysql2": "^3.3.1",
+    "path": "^0.12.7",
+    "promise-mysql": "^5.2.0",
+    "quick.db": "^9.0.2"
+  }
+}

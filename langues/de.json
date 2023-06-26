@@ -1,0 +1,42 @@
+{
+  "util": {
+    "ping": "Mein Ping beträgt",
+    "invite": "Hier ist der Link, um mich zu deinem Server hinzuzufügen und von meinem großartigen Einladungsmanagementsystem zu profitieren."
+  },
+  "graphique": {
+    "notStats": "Es liegen noch keine Statistiken vor.",
+    "newMembers": "neue Mitglieder",
+    "members": "Mitglieder",
+    "title": "Diagramm der Beitritte/Austritte",
+    "description": "Oben befindet sich das Diagramm der Mitgliederstatistiken des Servers."
+  },
+  "invites": {
+    "total": "Du hast"
+  },
+  "help": {
+    "titre": "Hilfeseite von",
+    "description": "Konfiguration\noptions » Bot-Konfiguration.\nrank » Ränge konfigurieren.\nvariables » Variablen anzeigen.\n\nAllgemein\ninvites » Anzahl der Einladungen einer Person.\ntop » Server-Rangliste anzeigen.\nlanguage » Sprache des Bots konfigurieren.\n\nVerwaltung\nbonus » Einladungen zu einem Mitglied hinzufügen.\n\nInstalliere mich auf deinem Server • Support-Server"
+  },
+  "config": {
+    "variables": "Hier ist die Liste der Bot-Variablen",
+    "bonus": "Einladungen wurden erfolgreich zu",
+    "ranksAdd": "wurde festgelegt auf",
+    "embedTitleInvite": "⚙️・Einladungsränge konfigurieren",
+    "noRank": "Es gibt keine Ränge auf dem Server",
+    "howInvite": "Wie viele Einladungen sind für den Rang erforderlich?",
+    "choisirRole": "Bitte wähle eine Rolle aus"
+  },
+  "inviteconfig": {
+    "embeddescription": "✉️ Konfiguration des Servers {guildname}\n\n📥 Begrüßungskanal:\n {welcomelounge\n📪 Begrüßungsnachricht:\n {welcomemsg\n📤 Abschiedskanal:\n {goodbyelounge}\n📭 Abschiedsnachricht:\n{goodbyemsg}",
+    "welcomelounge": "Begrüßungskanal",
+    "welcomemsg": "Begrüßungsnachricht",
+    "goodbyelounge": "Abschiedskanal",
+    "goodbyemsg": "Abschiedsnachricht",
+    "askwelcomelounge": "📥 Bitte erwähne oder sende mir die ID des Begrüßungskanals.",
+    "askwelcomemsg": "📭 Bitte gib die Begrüßungsnachricht ein",
+    "askgoodbyelounge": "📥 Bitte erwähne oder sende mir die ID des Abschiedskanals",
+    "askgoodbyemsg": "📭 Bitte gib die Abschiedsnachricht ein",
+    "undefined": "Keine",
+    "requestedby": "Ange"
+  }
+}
